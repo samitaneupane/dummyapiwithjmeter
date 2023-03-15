@@ -9,7 +9,7 @@ The test script performs the following 2 scenarios. The data structure for all r
 # A. Get List of Users
 -> Verify if the API is throwing 200 OK as status code.
 
--> Verify if the firstName, lastName, id, title, picture object keys are being populated or not.
+-> Verify if the id,lastName,firstName, email, title, picture object keys are being populated or not.
 
 -> Get value of id for user "Carolina" and use it to send API requests in B.
 
